@@ -17,6 +17,107 @@ nlu:
     - goodevening
     - good afternoon
 
+- intent: rating5
+  examples: |
+    - always
+    - all the time
+    - yes
+    - 10
+    - completely
+    - completely satisfied
+    - 100% satisfied
+    - fully
+    - i am completely happy
+    - i am fully happy
+    - totally
+    - entirely
+    - absolutely
+    - 100%
+    - 10/10
+    - 5/5
+
+- intent: rating4
+  examples: |
+      - very much
+      - very satisfied
+      - satisfied
+      - quite ok
+      - almost always
+      - almost all the time
+      - almost completely
+      - almost fully
+      - to a great extent
+      - to a large extent
+      - 4/5
+      - often
+      - frequently
+      - oftentimes
+      - constantly
+      - 4/5
+
+- intent: rating3
+  examples: |
+      - more often than not
+      - not entirely
+      - not constantly
+      - not completely
+      - a bit satisfied
+      - a little
+      - little
+      - not completely satisfied
+      - not always
+      - occasionaly
+      - now and then
+      - from time to time
+      - to a considerable extent
+      - to a reasonable extent
+      - not very much
+      - not that much
+      - more or less
+      - sometimes
+      - every other day
+      - 3/5
+
+- intent: rating2
+  examples: |
+      - less than i wanted
+      - rarely
+      - not that much
+      - less times
+      - rarely
+      - almost never
+      - less often than more
+      - once in a while
+      - little satisfied
+      - less than i expected
+      - less than i would like
+      - less than i should
+      - less than i could
+      - very few
+      - very few times
+      - seldom
+      - unusually
+      - quite rare
+      - few times
+      - few
+      - uncommon
+      - 2/5
+
+- intent: rating1
+  examples: |
+      - unsatisfied
+      - no
+      - never
+      - not all at
+      - terrible
+      - 0%
+      - 1/10
+      - 1/5
+      - 0
+      - zero
+      - nothing
+
+
 - intent: goodbye
   examples: |
     - good afternoon
